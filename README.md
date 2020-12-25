@@ -4,5 +4,13 @@ Weather forecast is the branch of science to predict the conditions of the atmos
 
 ## Temperature Pattern Over time
 
+![Temp](https://github.com/gayuc07/Weather-Forecasting/blob/main/Images/temp.JPG)
+
+From the above plot, we could observe strong trend, seasonality, and cyclic pattern present in the dataset.
+
+Let’s take a closer look at the seasonal part of the dataset, to understand more on the hourly data pattern. For this, I have sampled 7-day data from the dataset and plotted the data. 
+
+
+
 
 
